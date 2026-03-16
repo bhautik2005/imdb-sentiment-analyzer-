@@ -13,7 +13,7 @@ import streamlit as st
 word_index = imdb.get_word_index()
 reverse_word_index = {value: key for key, value in word_index.items()}
 
-model = load_model('simple_rnn_imdb2.h5')
+model = load_model('simple_Rnn_imdb2.h5')
 
  
 #   Helper Functions
