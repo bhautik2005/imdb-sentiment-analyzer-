@@ -17,7 +17,7 @@ def load_imdb_data():
     reverse_word_index = {value: key for key, value in word_index.items()}
     return word_index, reverse_word_index
 
-model = load_model('simple_rnn_imdb2.h5')
+model = load_model('Simple_Rnn_imdb2.h5')
  
 
 # 3. Cache the model and fix paths/compilation issues
