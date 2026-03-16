@@ -9,12 +9,16 @@ import streamlit as st
 # 1. Page config MUST be the first Streamlit command
 st.set_page_config(page_title="IMDB Sentiment Analyzer", page_icon="🎬")
 
+ 
 # 2. Cache the word index so it only loads once
 @st.cache_data
 def load_imdb_data():
     word_index = imdb.get_word_index()
     reverse_word_index = {value: key for key, value in word_index.items()}
     return word_index, reverse_word_index
+
+model = load_model('simple_rnn_imdb2.h5')
+ 
 
 # 3. Cache the model and fix paths/compilation issues
 @st.cache_resource
