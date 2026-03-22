@@ -64,8 +64,7 @@ Score interpretation:
 </td>
 
 <td align="center">
-<img src="
-https://github.com/bhautik2005/imdb-sentiment-analyzer-/blob/96f9fcac160a5f5272c0b626d26e9c5cd3c439c1/Screenshot%202026-02-28%20120903.png" width="450"><br>
+<img src="https://github.com/bhautik2005/imdb-sentiment-analyzer-/blob/96f9fcac160a5f5272c0b626d26e9c5cd3c439c1/Screenshot%202026-02-28%20120903.png" width="450"><br>
  
 </td>
 </tr>
