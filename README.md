@@ -47,30 +47,31 @@ Score interpretation:
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/bhautik2005/Movies_rives_prdiction/blob/6a96931f005d7a285a6411d28330afe03e6287d2/Screenshot%202026-02-28%20120530.png" width="450"><br>
+<img src="https://github.com/bhautik2005/imdb-sentiment-analyzer-/blob/96f9fcac160a5f5272c0b626d26e9c5cd3c439c1/Screenshot%202026-02-28%20120530.png" width="450"><br>
  
 </td>
 
 <td align="center">
-<img src="https://github.com/bhautik2005/Movies_rives_prdiction/blob/6a96931f005d7a285a6411d28330afe03e6287d2/Screenshot%202026-02-28%20120730.png" width="450"><br>
+<img src="https://github.com/bhautik2005/imdb-sentiment-analyzer-/blob/96f9fcac160a5f5272c0b626d26e9c5cd3c439c1/Screenshot%202026-02-28%20120730.png" width="450"><br>
  
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://github.com/bhautik2005/Movies_rives_prdiction/blob/6a96931f005d7a285a6411d28330afe03e6287d2/Screenshot%202026-02-28%20120814.png" width="450"><br>
+<img src="https://github.com/bhautik2005/imdb-sentiment-analyzer-/blob/96f9fcac160a5f5272c0b626d26e9c5cd3c439c1/Screenshot%202026-02-28%20120814.png" width="450"><br>
  
 </td>
 
 <td align="center">
-<img src="https://github.com/bhautik2005/Movies_rives_prdiction/blob/6a96931f005d7a285a6411d28330afe03e6287d2/Screenshot%202026-02-28%20120903.png" width="450"><br>
+<img src="
+https://github.com/bhautik2005/imdb-sentiment-analyzer-/blob/96f9fcac160a5f5272c0b626d26e9c5cd3c439c1/Screenshot%202026-02-28%20120903.png" width="450"><br>
  
 </td>
 </tr>
 </table>
 
-<img src="https://github.com/bhautik2005/Movies_rives_prdiction/blob/6a96931f005d7a285a6411d28330afe03e6287d2/output.png" width="750">
+<img src="https://github.com/bhautik2005/imdb-sentiment-analyzer-/blob/96f9fcac160a5f5272c0b626d26e9c5cd3c439c1/output.png" width="750">
 
 The Streamlit application allows users to:
 
