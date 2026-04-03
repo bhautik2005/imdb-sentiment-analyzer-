@@ -93,7 +93,7 @@ IMDB-Sentiment-Analyzer
 
 Clone the repository:
 
-git clone https://github.com/bhautik2005/Movies_rives_prdiction
+git clone https://github.com/bhautik2005/imdb-sentiment-analyzer-
 cd imdb-sentiment-analyzer
 
 Install dependencies:
